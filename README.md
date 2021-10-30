@@ -5,7 +5,7 @@ We welcome folks all across the Globe to help us creating an opensource reposito
 
 If you have any improvements, don't hesitate to post an issue or make a pull request 🙃
 
-📖 Table Of Contents
+## 📖 Table Of Contents
 Introduction
 Distinguishing Between UI and UX
 UI Designer Roadmap
